@@ -50,7 +50,7 @@
                                     <li><a href="index.php?gs=4" id="us">Us Open</a></li>
                                 </ul>
                                 </li>
-                                <li><a href="#" id="formulario">Jugador 2016 <span class="glyphicon glyphicon-gift"></span></a></li>
+                                <li><a href="#" id="formulario">Jugador 2017 <span class="glyphicon glyphicon-gift"></span></a></li>
                                 
                             </ul>
                             <ul class="nav navbar-nav navbar-right">
