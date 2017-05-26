@@ -123,7 +123,7 @@
                       <td><b>Ranking</b></td>
                       <td><b>Jugador</b></td>
                       <td><b>Pais</b></td>
-                      <td><b>Ganados/Perdidos</b></td>
+                      <td><b>G/P</b></td>
                       <td><b>Puntos</b></td>
                   </tr>
                   
