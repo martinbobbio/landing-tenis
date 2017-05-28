@@ -164,7 +164,7 @@
                     	<h4 class="text-primary" style="display:inline"><?php echo $resultados['jugador']; ?></h4>
 						<img src="img/paises/<?php echo $resultados['pais']; ?>.jpg" width="30px" height="20px">
 						<span class="badge list-group-item-danger"> # <?php echo $resultados['ranking']; ?></span>
-                        <br><br><p><b>Estadisticas:</b></p>
+                        <br><br><p><b>Estadísticas:</b></p>
 						 <ul>
       						<li>Pais: <?php echo $resultados['pais']; ?></li>
       						<li>Mano: <?php echo $resultados['mano']; ?></li>

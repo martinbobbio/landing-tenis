@@ -5,7 +5,7 @@ $usuario = $_POST['usuario'];
 $password = $_POST['password']; 
 
 if($usuario == "Martin" && $password == 1234){
-	$respuesta['mensaje'] = $_POST['usuario'] . ' <img src="img/pagina/Martin.jpg"class="img-circle" width=30px heigth=30px>'; 
+	$respuesta['mensaje'] = $_POST['usuario'] . ' <img src="img/pagina/Martin.jpg"class="img-circle" width=29px heigth=29px>'; 
 	$respuesta['resultado'] = 1;
 }else if($usuario == "Nico" && $password == 1234){
 	$respuesta['mensaje'] = $_POST['usuario'] . ' <img src="img/pagina/Nico.jpg"class="img-circle" width=25px heigth=25px>'; 
