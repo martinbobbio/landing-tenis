@@ -13,7 +13,10 @@ Usado para animaciones y funciones de la página.
 Usado para toda la página.
 
 Inicio:
+
 ![Image of inicio](img/pagina/Home.PNG)
 
+
 Ranking:
+
 ![Image of ranking](img/pagina/Ranking.PNG)
