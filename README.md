@@ -12,4 +12,8 @@ Usado para animaciones y funciones de la página.
 **Boostrap**
 Usado para toda la página.
 
-![Image of Página](img/icono.png)
+![Image of Página](img/pagina/Home.png)
+
+![Image of Página](img/pagina/Ranking.png)
+
+![Image of Página](img/pagina/Formulario.png)
